@@ -7,7 +7,7 @@ An embedded systems project focused on autonomous water quality monitoring and f
 ### System Overview
 
 <p align="center">
-  <img src="media/system_overview.jpg" width="700">
+  <img src="media/system_overview.jpeg" width="700">
 </p>
 
 *Complete prototype showing the Arduino Nano controller, turbidity sensing module, propulsion system, and onboard power electronics.*
@@ -15,8 +15,8 @@ An embedded systems project focused on autonomous water quality monitoring and f
 ### Hardware Validation
 
 <p align="center">
-  <img src="media/turbidity_testing.jpg" width="350">
-  <img src="media/hardware_integration.jpg" width="350">
+  <img src="media/turbidity_testing.jpeg" width="350">
+  <img src="media/hardware_integration.jpeg" width="350">
 </p>
 
 *Turbidity sensor calibration and integrated hardware testing during development.*
@@ -24,7 +24,7 @@ An embedded systems project focused on autonomous water quality monitoring and f
 ### Propulsion System
 
 <p align="center">
-  <img src="media/propulsion_system.jpg" width="700">
+  <img src="media/propulsion_system.jpeg" width="700">
 </p>
 
 *Differential-drive propulsion system powered by DC motors and controlled through an L298N motor driver.*
