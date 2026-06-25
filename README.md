@@ -41,7 +41,7 @@ A complete demonstration of the robot showcasing autonomous debris collection, t
 
 Detailed technical documentation covering system architecture, hardware design, software implementation, testing methodology, and performance evaluation.
 
-[![View Documentation](https://img.shields.io/badge/📄_VIEW-PROJECT_DOCUMENTATION-blue?style=for-the-badge)](./docs/Project_Report.pdf)
+[![View Documentation](https://img.shields.io/badge/📄_VIEW-PROJECT_DOCUMENTATION-blue?style=for-the-badge)](.docs/WaterBot_IEEE_Manuscript(1).pdf)
 
 ---
 
